@@ -1,5 +1,4 @@
 import sys
-import time
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from scrapy.crawler import CrawlerProcess
