@@ -1,6 +1,6 @@
 # TopNius
 
-For change the delay between requests modify DOWNLOAD_DELAY parameter in CrawlerProcess constructor. The delay will be between 0.5*DOWNLOAD_DELAY and 1.5*DOWNLOAD_DELAY
+For change the delay between requests modify DOWNLOAD_DELAY parameter in CrawlerProcess constructor. The delay will be between 0.5\*DOWNLOAD_DELAY and 1.5\*DOWNLOAD_DELAY
 
 ```
 process = CrawlerProcess({
